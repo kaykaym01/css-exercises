@@ -1,0 +1,21 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    font-weight: 600;
+    padding-left: 15px;
+}
+p{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+
+button {
+    background-color: orange;
+    font-size: 20px;
+}
